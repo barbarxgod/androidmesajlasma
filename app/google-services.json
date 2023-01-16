@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914667462424",
+    "project_id": "kori-2b4d6",
+    "storage_bucket": "kori-2b4d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914667462424:android:e7b2a879cbc1397962886d",
+        "android_client_info": {
+          "package_name": "com.example.a201713709035kori"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914667462424-rniunusjho62uns6c02qp1sng0g56cp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0_GcYiR1GeATKx8KqoSgmbbuOaPRirdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914667462424-rniunusjho62uns6c02qp1sng0g56cp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
